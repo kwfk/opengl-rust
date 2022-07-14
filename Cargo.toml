@@ -1,0 +1,12 @@
+[package]
+name = "opengl-rust"
+version = "0.1.0"
+authors = ["Frederick Kim <freddy.kim8@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+gl33 = "0.2.1"
+
+[dev-dependencies]
+imagine = "0.0.8"
+ultraviolet = "0.9.0"
